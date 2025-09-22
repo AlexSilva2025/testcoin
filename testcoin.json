@@ -1,0 +1,13 @@
+{
+  "name": "My new test token",
+  "symbol": "NTT",
+  "description": "The official test token",
+  "image": "https://raw.githubusercontent.com/AlexSilva2025/testcoin/main/logo.png",
+  "external_url": "https://github.com/AlexSilva2025/testcoin",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    }
+  ]
+}
