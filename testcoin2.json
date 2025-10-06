@@ -2,7 +2,7 @@
   "name": "My new test token 2",
   "symbol": "NTT2",
   "description": "The official test token",
-  "image": "https://raw.githubusercontent.com/AlexSilva2025/testcoin/main/logo2.png",
+  "image": "https://raw.githubusercontent.com/AlexSilva2025/testcoin/main/logo2.jpg",
   "external_url": "https://github.com/AlexSilva2025/testcoin2",
   "attributes": [
     {
